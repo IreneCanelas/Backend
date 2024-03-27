@@ -6,7 +6,7 @@ This repository is dedicated to Backend Development projects coded by [me](https
 
 <h3>Languages and Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,java,nodejs,maven,intellij,vscode" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,nodejs,maven,vscode" />
 </div>
 
 <hr>
